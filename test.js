@@ -1,2 +1,2 @@
 console.log("Hello World")
-console.log("Salom Dunyo")
+console.log("Salom A'zamjon")
